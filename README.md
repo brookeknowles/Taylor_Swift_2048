@@ -25,3 +25,7 @@ The player starts with an empty board containing two *Taylor Swift* albums. They
 
 Game is currently deployed at https://rad-begonia-9cc8b6.netlify.app/ to play.
 However the images will load faster if you download the code locally and run from your machine.
+
+## Notes
+
+Currently only optimised for the size of my monitor and text is misplaced on different sized windows. Will fix in future.
