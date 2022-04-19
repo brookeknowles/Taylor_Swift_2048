@@ -1,5 +1,7 @@
 # Taylor Swift 2048
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f649953d-d73a-4de0-8253-30cc024e8a5f/deploy-status)](https://app.netlify.com/sites/rad-begonia-9cc8b6/deploys)
+
 ## About Game
 This is a clone of the popular sliding tile puzzle game made by Gabriele Cirulli. More information about the game can be found [here](https://en.wikipedia.org/wiki/2048_(video_game)). 
 
@@ -21,4 +23,5 @@ The player starts with an empty board containing two *Taylor Swift* albums. They
 
 ## Play yourself
 
-Download the code
+Game is currently deployed at https://rad-begonia-9cc8b6.netlify.app/ to play.
+However the images will load faster if you download the code locally and run from your machine.
